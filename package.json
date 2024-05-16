@@ -40,7 +40,8 @@
   },
   "keywords": [
     "empty",
-    "is-empty"
+    "is-empty",
+    "traversal"
   ],
   "author": "eaton",
   "license": "MIT",
@@ -57,7 +58,7 @@
     "typescript": "^5.4.3"
   },
   "dependencies": {
-    "emptier": "github:eaton/emptier",
+    "emptier": "^1.0.0",
     "object-traversal": "^1.0.1"
   }
 }
